@@ -1,0 +1,9 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: gainsboro;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 16px;
+    padding: 10px;
+    background-image: url(R.jpg);
+}

@@ -1,0 +1,50 @@
+element.style {
+    width: 100%;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+table {
+    background-color: white;
+    border: 2px solid rgb(43, 153, 226);
+    text-align: left;
+    border-radius: 15px;
+    padding: 5px;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: gainsboro;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 16px;
+    padding: 10px;
+    background-image: url(background.jpg);
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+th {
+    padding-left: 10px;
+    border-radius: 25px;
+}
+
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
